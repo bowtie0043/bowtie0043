@@ -45,4 +45,4 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=bowtie0043&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://camo.githubusercontent.com/e7a200358d2c4a007bf7424a80ffdef75801171a3323ed4c81b5ae594dd5de65/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626f7774696530303433266c61796f75743d636f6d706163742673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowtie0043&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true%22width=%22%100%22%20height=%22150px" />
