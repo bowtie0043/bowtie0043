@@ -39,7 +39,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account" alt="Typing SVG" /></h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/653683611546943529"><img  <img src="https://luppufy-api.onrender.com/member/<653683611546943529>">
+ <a href="https://discord.com/users/653683611546943529"> <img src="https://luppufy-api.onrender.com/member/<653683611546943529>">
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
